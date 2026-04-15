@@ -17,5 +17,5 @@ Overall, this project demonstrates a complete design + verification flow, making
 
 AXI4 protocol behavior
 High-performance bus design
-UVM-based verification methodologies
+UVM-based verification methodologies.
 
